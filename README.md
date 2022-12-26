@@ -5,4 +5,4 @@ Repositorio para utilizar el flujo de trabajo de gitFlow
 Cambio funcionando correctamente ya desde produccion
 
 # Cambios desde la rama feature featurefeat/3333-hu02-jr
-cambios 02 correctamente ya
+cambios 02 correctamente ya desde produccion
